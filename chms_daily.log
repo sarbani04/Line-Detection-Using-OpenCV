@@ -1,0 +1,574 @@
+Traceback (most recent call last):
+  File "WebelGuiMain.py", line 16, in <module>
+    from lineCrossFinal import *
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 17, in <module>
+    from playsound import playsound
+ModuleNotFoundError: No module named 'playsound'
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/tkinter/__init__.py", line 1705, in __call__
+    return self.func(*args)
+  File "WebelGuiMain.py", line 43, in Process
+    lineCross(file_path)
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 261, in lineCross
+    width, height = GetSystemMetrics(0), GetSystemMetrics(1)
+NameError: name 'GetSystemMetrics' is not defined
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:19.616: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.406: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.406: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.416: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.416: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.435: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.489: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.549: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.567: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.612: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.630: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:21.685: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:23.411: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:23.419: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:23.427: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:23.436: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:23.445: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:23.456: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:25.409: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:25.417: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:25.426: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:25.434: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:25.443: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:25.452: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:27.425: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:27.439: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:27.448: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:27.457: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:27.466: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:27.476: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:29.435: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:30.308: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:30.317: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:30.325: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:30.334: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:30.342: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:31.439: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:31.449: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:31.458: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:31.467: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:31.477: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:31.485: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:33.453: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:33.463: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:33.472: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:33.480: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:33.489: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:33.498: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:35.456: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:35.466: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:35.475: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:35.484: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:35.491: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8571): GStreamer-CRITICAL **: 13:31:35.499: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:02.132: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:02.140: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:02.149: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:02.157: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:02.165: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:02.174: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:04.052: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:04.064: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:04.074: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:04.083: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:04.092: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:04.101: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:06.056: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:06.065: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:06.073: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:06.081: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:06.089: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:06.097: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:08.051: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:08.059: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:08.068: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:08.077: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:08.086: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:08.097: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:10.071: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:10.082: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:10.092: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:10.101: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:10.109: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:10.121: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:12.079: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:12.089: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:12.098: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:12.107: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:12.115: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:12.123: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:14.087: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:14.095: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:14.103: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:14.114: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:14.124: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:14.132: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:16.097: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:16.107: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:16.115: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:16.124: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:16.135: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:16.146: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:18.107: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:18.115: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:18.124: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:18.133: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:18.140: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:18.148: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:36.289: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:36.298: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:36.308: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:36.317: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:36.326: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:36.334: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:38.314: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:38.323: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:38.331: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:38.340: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:38.348: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:38.357: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:40.319: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:40.329: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:40.338: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:40.346: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:40.356: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:40.366: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:42.318: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:42.328: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:42.336: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:42.345: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:42.354: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:42.363: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:44.332: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:44.342: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:44.351: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:44.359: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:44.368: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:44.376: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:46.344: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:46.354: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:46.362: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:46.370: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:46.380: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:46.390: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:48.356: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:48.367: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:48.376: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:48.384: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:48.392: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:48.400: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:50.362: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:50.372: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:50.381: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:50.389: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:50.399: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:50.409: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:52.367: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:52.376: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:52.384: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:52.392: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:52.400: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+
+(WebelGuiMain.py:8677): GStreamer-CRITICAL **: 13:32:52.408: gst_element_get_state: assertion 'GST_IS_ELEMENT (element)' failed
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+/home/omni/webelLineCross/lineCrossFinal.py:16: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository.Gtk import Window
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:7508): GStreamer-CRITICAL **: 15:47:52.473: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:7508): GStreamer-CRITICAL **: 15:47:54.192: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:11.288: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:13.300: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:15.722: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:17.110: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:19.188: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:21.372: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:23.734: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:25.492: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:14545): GStreamer-CRITICAL **: 16:34:27.233: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+Exception in thread RingROAD6:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 47, in run
+    self.THRESHOLD,self.LOCATION)
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 212, in detectPeople
+    sendSMS(alert_message)
+  File "/home/omni/webelLineCross/notifications.py", line 65, in sendSMS
+    response = client.send_message(number, message)
+  File "/home/omni/.local/lib/python3.6/site-packages/sinchsms.py", line 79, in send_message
+    return self._request(self.SEND_SMS_URL + to_number, values)
+TypeError: must be str, not list
+
+Exception ignored in: <module 'threading' from '/usr/lib/python3.6/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/threading.py", line 1294, in _shutdown
+    t.join()
+  File "/usr/lib/python3.6/threading.py", line 1056, in join
+    self._wait_for_tstate_lock()
+  File "/usr/lib/python3.6/threading.py", line 1072, in _wait_for_tstate_lock
+    elif lock.acquire(block, timeout):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "WebelGuiMain.py", line 16, in <module>
+    from lineCrossFinal import *
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 19, in <module>
+    from notifications import *
+  File "/home/omni/webelLineCross/notifications.py", line 74
+    break
+        ^
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "WebelGuiMain.py", line 16, in <module>
+    from lineCrossFinal import *
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 19, in <module>
+    from notifications import *
+  File "/home/omni/webelLineCross/notifications.py", line 74
+    break
+        ^
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "WebelGuiMain.py", line 16, in <module>
+    from lineCrossFinal import *
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 19, in <module>
+    from notifications import *
+  File "/home/omni/webelLineCross/notifications.py", line 74
+    break
+        ^
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "WebelGuiMain.py", line 16, in <module>
+    from lineCrossFinal import *
+  File "/home/omni/webelLineCross/lineCrossFinal.py", line 19, in <module>
+    from notifications import *
+  File "/home/omni/webelLineCross/notifications.py", line 74
+    break
+        ^
+TabError: inconsistent use of tabs and spaces in indentation
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:44.864: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:46.616: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:48.625: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:50.610: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:52.816: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:54.478: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:56.722: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:46:58.525: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
+
+(python3:15875): GStreamer-CRITICAL **: 16:47:00.644: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+NvMMLiteOpen : Block : BlockType = 261 
+NVMEDIA: Reading vendor.tegra.display-size : status: 6 
+NvMMLiteBlockCreate : Block : BlockType = 261 
